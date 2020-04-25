@@ -1,0 +1,23 @@
+.navbar {
+  border-radius:50%;
+  border-color:darkblue;
+  overflow:auto;
+}
+.navbar a {
+  padding: 20px 80px;
+}
+#line1 {
+  border-style:2px dashed orange;
+}
+begin, def {
+  font-family:cursive;
+  font-size:18px;
+}
+* {
+  text-align:center;
+}
+.navbar a:hover {
+  transition: 1s;
+  color:gold;
+  background-color:black;
+}
