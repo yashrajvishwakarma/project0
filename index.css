@@ -1,22 +1,12 @@
-.nav {
-  padding:20px 80px;
 
-}
 #line1 {
   border-style:2px dashed orange;
 }
-begin, def {
-  font-family:Courier;
-  font-size:18px;
+body def {
+  font-family:cursive;
 }
 * {
   text-align:center;
-}
-
-.navbar a:hover {
-  transition: 1s;
-  color:gold;
-  background-color:black;
 }
 p::selection {
   color:orange;
@@ -31,4 +21,7 @@ p::selection {
   h1::before {
     content:"Evolution of AI";
   }
+}
+.page {
+  background-color:yellow;
 }
