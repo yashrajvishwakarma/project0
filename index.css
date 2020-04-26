@@ -5,9 +5,7 @@
 #def {
   font-size:20px;
 }
-.nav {
-  padding: 20px 80px;
-}
+
 p::selection {
   color:orange;
   background-color:yellow;
