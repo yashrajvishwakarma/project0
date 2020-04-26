@@ -1,12 +1,12 @@
 
-#line1 {
-  border-style:2px dashed orange;
-}
-body def {
-  font-family:cursive;
-}
 * {
   text-align:center;
+}
+#def {
+  font-size:20px;
+}
+.nav {
+  padding: 20px 80px;
 }
 p::selection {
   color:orange;
@@ -24,4 +24,24 @@ p::selection {
 }
 .page {
   background-color:yellow;
+  font-family: sans-serif;
+}
+#begin {
+  font-family: cursive;
+  font-size:20px;
+
+}
+#phasetwo {
+  font-family: cursive;
+  font-size:20px;
+}
+#phasethree {
+  font-family: cursive;
+  font-size:20px;
+}
+.img1 {
+  width:300px;
+  height:300px;
+  border-width: 10px;
+  border-color: crimson;
 }
