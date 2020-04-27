@@ -24,10 +24,7 @@ p::selection {
     content:"Evolution of AI";
   }
 }
-.page {
-  background-color:yellow;
-  font-family: sans-serif;
-}
+
 #begin {
   font-family: cursive;
   font-size:20px;
