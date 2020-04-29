@@ -1,0 +1,13 @@
+$bgcolor:#abeaff;
+%message {
+  font-family:sans-serif;
+  font-size:16px;
+  color:crimson;
+  text-align:center;
+}
+p {
+  @extend %message;
+}
+* {
+  background-color:$bgcolor;
+}
